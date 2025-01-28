@@ -1,0 +1,3 @@
+C:/Users/USER/CLionProjects/Goncicindeneme/cmake-build-debug/CMakeFiles/Goncicindeneme.dir
+C:/Users/USER/CLionProjects/Goncicindeneme/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/USER/CLionProjects/Goncicindeneme/cmake-build-debug/CMakeFiles/rebuild_cache.dir
